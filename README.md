@@ -23,14 +23,6 @@ La diferencia fue de S/ 15.00, esto pasa por que el orden en que se hacen los ca
 
 En la ultima solucion ambos pagan S/ 45.00, ya que primero se suman los recargos y despues se aplica la beca.
 
-## Ejecucion
-
-Para probar los archivos se usa:
-
-- `python main.py`
-- `python solucion.py`
-- `python politica_oti.py`
-
 ## Conclusion
 
 Con este ejercicio pude entender mejor como funciona la herencia multiple y el MRO en Python. Tambien aprendi que el orden de las operaciones puede cambiar el resultado y que usando composicion podemos controlar mejor los calculos sin depender tanto de las clases.
